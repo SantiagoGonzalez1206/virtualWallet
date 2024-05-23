@@ -1,0 +1,33 @@
+:root {
+  --color-1: #001331;
+  --color-2: #285ae4;
+  --color-3: #01b7ff;
+  --color-4: #d1f6ff;
+
+  --margin-left-right: 15px;
+}
+
+@font-face {
+  font-family: "SF-Pro-Medium";
+  src: url(../storage/font/SF-Pro-Text-Medium.otf);
+}
+
+@font-face {
+  font-family: "SF-Pro-Bold";
+  src: url(../storage/font/SF-Pro-Text-Bold.otf);
+}
+
+@font-face {
+  font-family: "SF-Pro-Light";
+  src: url(../storage/font/SF-Pro-Text-Light.otf);
+}
+
+@font-face {
+  font-family: "SF-Pro-Semibold";
+  src: url(../storage/font/SF-Pro-Text-Semibold.otf);
+}
+
+@font-face {
+  font-family: "SF-Pro-Regular";
+  src: url(../storage/font/SF-Pro-Text-Regular.otf);
+}
